@@ -6,6 +6,13 @@ Compatible with Firefox and all Chromium-based browsers (Chrome, Edge, Brave, et
 
 ## Installation
 
+Install from the stores:
+
+- Chrome Web Store: https://chromewebstore.google.com/detail/ilamhoalalbkkobhbegmdkjdckkjogpn
+- Firefox Add-ons: https://addons.mozilla.org/firefox/addon/gemini-tab-title/
+
+Or install manually:
+
 **Chromium:** `chrome://extensions` → Enable Developer mode → Load unpacked → select this folder
 
 **Firefox:** `about:debugging#/runtime/this-firefox` → Load Temporary Add-on → select `manifest.json`
